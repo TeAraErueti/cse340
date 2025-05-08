@@ -1,0 +1,1 @@
+This Repo was created for all projects in CSE340 May 2025 for BYU-Idaho via BYU Pathways Connect. The course runs for a period of 7 Weeks over a study block and will be covering web backend development.
